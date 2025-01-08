@@ -25,4 +25,4 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run the Recommendation System
-      run: python src/training_pipeline.py
+      run: python src/fetch_spotify_data.py
