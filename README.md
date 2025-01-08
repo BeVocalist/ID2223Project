@@ -45,7 +45,7 @@ The dataset used for this project comprises two main sources:
 - Manages data flow between different pipeline stages
 
 ### User Interface
-- Gradio interface for end users
+- [Gradio interface](https://huggingface.co/spaces/JeremyatKTH/Spotify_Music_Recommender) for end users
 - Displays generated recommended songs
 - Provides user interaction capabilities
 
