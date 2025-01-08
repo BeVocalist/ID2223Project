@@ -1,0 +1,11 @@
+,track_id,track_name,artist_name,popularity,album_name,duration_ms,acousticness,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,tempo,time_signature,artist_avg_popularity,artist_popularity_std,artist_track_count,artist_avg_acousticness,artist_avg_danceability,artist_avg_energy,duration_minutes
+0,21LlzSfeIniIhhRFRYVZCj,真的嗎,吕彦良,0.12,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,2x0WlnmfG39ZuDmstl9xfX,End Game,"Taylor Swift, Ed Sheeran, Future",0.71,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,7GWZeRV0UdXItmS7MPZ348,路邊的野花,Sabrina 胡恂舞,0.51,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,2Qfz368vWOqSJbzjti6Ewc,再見,吕彦良,0.14,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,0tKUv7grqMMvgGAqawsvu4,掰掰(開心那種),Chih Siou,0.35,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,7Kw1ycY0Dfqf3uM25SxImO,D-DAY,Whee In,0.4,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,009j4tQyJC53rmgTuXil9E,愛是這樣,Eve Ai,0.25,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,6ry670EtSALRt1yd0W0wca,Make Me Happy,Whee In,0.45,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1A1rywGN5SxWNuxPAPtAE8,有一說一,Chih Siou,0.44,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,1mYOaI1QRsxA1c0ZHEx4jD,Now or Never,EJel,0.31,unknown_album,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
