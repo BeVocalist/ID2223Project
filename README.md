@@ -1,9 +1,8 @@
 # ID2223 Final Project - Spotify Music Recommender
- A personalized music recommendation system that aims to provide personalized music recommendations by analyzing user's Spotify listening history and leveraging the K-Nearest Neighbors (KNN) algorithm. The system encompasses data preprocessing, model training, and real-time inference to handle large-scale music data efficiently and deliver timely song suggestions.
- 
+Group 25 - Mengmeng Yang, Zong-rong Yang
 ## Overview
-
-This project creates an automated system that:
+A personalized music recommendation system that aims to provide personalized music recommendations by analyzing user's Spotify listening history and leveraging the K-Nearest Neighbors (KNN) algorithm. The system encompasses data preprocessing, model training, and real-time inference to handle large-scale music data efficiently and deliver timely song suggestions.
+This project creates an system that:
 1. Connects to users' Spotify accounts
 2. Analyzes their top played tracks
 3. Generates personalized recommendations
