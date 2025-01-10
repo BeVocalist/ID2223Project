@@ -7,7 +7,7 @@ This project creates an system that:
 2. Analyzes their top played tracks
 3. Generates personalized recommendations
 4. Creates recomendation playlists
-5. Automatically refreshes recommendations based on new listening data
+
 
 
 ## System Architecture
