@@ -11,7 +11,7 @@ This project creates an system that:
 
 
 ## System Architecture
-![flowchart](./flowchart.jpg)
+![flowchart](./flowchart_new.jpg)
 
 The system consists of several key components:
 ### Data Collection and Processing
