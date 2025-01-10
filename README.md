@@ -39,9 +39,6 @@ The dataset used for this project comprises two main sources:
 - Inference Pipeline: 
   -  Uses the trained model to generate song recommendations based on user preferences and listening history.
 
-### Storage and Registry
-- Feature Store & Model Registry: Centralizes storage of features and trained models
-- Manages data flow between different pipeline stages
 
 ### User Interface
 - [Gradio interface](https://huggingface.co/spaces/JeremyatKTH/Spotify_Music_Recommender) for end users
