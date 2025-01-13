@@ -24,9 +24,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install confluent-kafka
         pip install -r requirements.txt
-        sudo apt update
-        sudo apt install -y kafka
-        nohup kafka-server-start.sh /etc/kafka/server.properties &
+        # sudo apt update
+        # sudo apt install -y kafka
+        # nohup kafka-server-start.sh /etc/kafka/server.properties &
 
     - name: Run the Recommendation System
       run: python src/fetch_spotify_data.py
