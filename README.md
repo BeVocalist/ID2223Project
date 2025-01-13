@@ -64,4 +64,12 @@ The dataset used for this project comprises two main sources:
 - Genre-based filtering
 - Mood-based playlists
 
+## Demo Video
+We kindly invite you to view our demo video hosted on Hugging Face for your reference. Please note that, due to limitations in the Hugging Face environment, refreshing the Spotify access token is not supported. However, this functionality works smoothly on localhost and other platforms. In the demo, we present a scenario where the access token remains valid (typically, Spotify access tokens expire after one hour).
+
+https://github.com/user-attachments/assets/7dfb0fcf-4774-47d3-9fc2-3b049d3d39f4
+
+
+  
+
 
