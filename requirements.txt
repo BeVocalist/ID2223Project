@@ -1,0 +1,11 @@
+requests>=2.25.1
+spotipy==2.25.0
+streamlit==1.32.2
+python-dotenv>=1.0.0
+gradio==5.10.0
+pandas
+hopsworks
+pyarrow
+grpcio
+
+
