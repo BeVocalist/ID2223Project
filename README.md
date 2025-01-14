@@ -6,12 +6,13 @@ This project creates an system that:
 1. Connects to users' Spotify accounts
 2. Analyzes their top played tracks
 3. Generates personalized recommendations
-4. Creates recomendation playlists
+4. Creates recommendation playlists
 
 
 
 ## System Architecture
 ![flowchart](./flowchart_new.jpg)
+This project uses GitHub Actions to automatically fetch daily data from Spotify, including the user's most-played tracks. The data is uploaded daily to Hopsworks, keeping our playlist recommendations aligned with the user’s current preferences. With our Gradio interface, users can create personalized Spotify playlists and easily add them to their Spotify accounts. 
 
 The system consists of several key components:
 ### Data Collection and Processing
